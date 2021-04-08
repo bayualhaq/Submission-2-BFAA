@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Githib User</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="github_user">Github User</string>
+    <string name="search">Search</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="change_language_setting">Change Language Setting</string>
+</resources>
